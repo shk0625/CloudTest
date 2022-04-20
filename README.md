@@ -10,6 +10,9 @@
 - :white_check_mark: View 환경설정
 - :white_check_mark:빌드하고 실행하기
 ### 스프링 웹 개발 기초
+- :white_check_mark: 정적 컨텐츠
+- :white_check_mark: MVC와 템플릿 엔진
+- :white_check_mark: API
 ### 회원 관리 예제 - 백엔드 개발
 ### 스프링 빈과 의존관계
 ### 회원 관리 예제 - 웹 MVC 개발

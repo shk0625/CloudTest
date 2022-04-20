@@ -7,7 +7,7 @@
 ### 프로젝트 환경 설정
 - :white_check_mark: 프로젝트 생성
 - :white_check_mark: 라이브러리 살펴보기
-- View 환경설정
+- :white_check_mark: View 환경설정
 - 빌드하고 실행하기
 ### 스프링 웹 개발 기초
 ### 회원 관리 예제 - 백엔드 개발

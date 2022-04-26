@@ -15,7 +15,7 @@ class MemoryMemberRepositoryTest {
     MemoryMemberRepository repository = new MemoryMemberRepository();
 
     @AfterEach
-    public void  afterEach(){
+    public void afterEach(){
         repository.clearStore();
     }
 
@@ -40,12 +40,12 @@ class MemoryMemberRepositoryTest {
         repository.save(member1);
 
         Member member2 = new Member();
-        member1.setName("spring2");
+        member2.setName("spring2");
         repository.save(member2);
 
-        Member result = repository.findByName("spring1").get();
+        Member result = repository.findByName("spring2").get();
 
-        assertThat(result).isEqualTo(member1);
+        assertThat(result).isEqualTo(member2);
     }
 
     @Test

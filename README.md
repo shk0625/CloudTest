@@ -17,8 +17,8 @@
 - :white_check_mark: 비즈니스 요구사항 정리
 - :white_check_mark: 회원 도메인과 리포지토리 만들기
 - :white_check_mark: 회원 리포지토리 테스트 케이스 작성
-- 회원 서비스 개발
-- 회원 서비스 개발
+- :white_check_mark: 회원 서비스 개발
+- :white_check_mark: 회원 서비스 테스트
 ### 스프링 빈과 의존관계
 ### 회원 관리 예제 - 웹 MVC 개발
 ### 스프링 DB 접근 기술 

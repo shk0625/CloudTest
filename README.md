@@ -24,11 +24,11 @@
 - :white_check_mark: 자바 코드로 직접 스프링 빈 등록하기
 ### 회원 관리 예제 - 웹 MVC 개발
 - :white_check_mark: 회원 웹 기능 - 홈 화면 추가
-- 회원 웹 기능 - 등록
-- 회원 웹 기능 - 조회
+- :white_check_mark: 회원 웹 기능 - 등록
+- :white_check_mark: 회원 웹 기능 - 조회
 
 ### 스프링 DB 접근 기술
-- H2 데이터베이스 설치
+- :white_check_mark: H2 데이터베이스 설치
 - 순수 JDBC
 - 스프링 통합 테스트
 - 스프링 JdbcTemplate

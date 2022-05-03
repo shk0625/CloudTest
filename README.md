@@ -29,7 +29,7 @@
 
 ### 스프링 DB 접근 기술
 - :white_check_mark: H2 데이터베이스 설치
-- 순수 JDBC
+- :white_check_mark: 순수 JDBC
 - 스프링 통합 테스트
 - 스프링 JdbcTemplate
 - JPA

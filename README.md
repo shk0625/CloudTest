@@ -32,8 +32,8 @@
 - :white_check_mark: 순수 JDBC
 - :white_check_mark: 스프링 통합 테스트
 - :white_check_mark: 스프링 JdbcTemplate
-- JPA
-- 스프링 데이터 JPA
+- :white_check_mark: JPA
+- :white_check_mark: 스프링 데이터 JPA
 
 ### AOP
 - AOP가 필요한 상황

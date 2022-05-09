@@ -36,7 +36,7 @@
 - :white_check_mark: 스프링 데이터 JPA
 
 ### AOP
-- AOP가 필요한 상황
+- :white_check_mark: AOP가 필요한 상황
 - AOP 적용
 
       

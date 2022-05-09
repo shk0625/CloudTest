@@ -37,6 +37,6 @@
 
 ### AOP
 - :white_check_mark: AOP가 필요한 상황
-- AOP 적용
+- :white_check_mark: AOP 적용
 
       

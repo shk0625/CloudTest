@@ -4,3 +4,14 @@ private 서버까지 띄웠다고 가정.
 yum install java-11-openjdk-devel.x86_64
 설치 잘 되었는지 확인
 java -version 
+
+자바가 설치된 (private server) 곳에서
+git clone을 해줌!
+git clone + github 복사링크!
+
+백그라운드(접속된 cmd창이 꺼져도 접속되는) 접속 방법
+nohup java -jar 파일이름.jar &
+(nohup가 백그라운드에서 실행시키는 명령어)
+
+여기선 (내 거)
+nohup java -jar hello-spring-0.0.1-SNAPSHOT.jar &

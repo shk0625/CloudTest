@@ -1,4 +1,6 @@
 private 서버까지 띄웠다고 가정.
 
 자바 11 설치해줌. 
-
+yum install java-11-openjdk-devel.x86_64
+설치 잘 되었는지 확인
+java -version 
